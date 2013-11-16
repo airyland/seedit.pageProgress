@@ -3,7 +3,7 @@
   "name": "pageProgress",
   "version": "0.0.1",
   "description": "fork from nprogress",
-  "homepage": "https://github.com/airyland/seedit",
+  "homepage": "https://github.com/airyland/seedit.pageProgress",
   "author": "",
   "maintainers": [
     "",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/airyland/seedit.git"
+    "url": "git@github.com/airyland/seedit.pageProgress.git"
   },
   "bugs": {
     "url": ""
